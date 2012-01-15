@@ -3,7 +3,7 @@ Open Foehnseher
 
 ## About
 
-A software knock off of Julian Oliver's piece [Foenseher](http://julianoliver.com/foehnseher/).
+A software knock off of Julian Oliver's piece [Foehnseher](http://julianoliver.com/foehnseher/).
 
 This code sniffs for network HTTP image request packets, downloads a copy of image to the images directory, and displays the image on a simple GUI.
 
